@@ -23,7 +23,7 @@ Instrucciones paso a paso para instalar el proyecto. Por ejemplo:
 ```bash
 cd SERVICIOS_TECNOLÓGICOS
 
-3.Instala las dependencias:
+3. Instala las dependencias:
 ```bash
 npm install
 
