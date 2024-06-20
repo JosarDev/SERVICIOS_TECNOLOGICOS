@@ -18,3 +18,12 @@ Instrucciones paso a paso para instalar el proyecto. Por ejemplo:
 1. Clonar el repositorio:
    ```bash
    git clone https://github.com/JosarDev/SERVICIOS_TECNOLOGICOS.git
+
+2. Navega al directorio del proyecto:
+```bash
+cd SERVICIOS_TECNOLÓGICOS
+
+3.Instala las dependencias:
+```bash
+npm install
+
